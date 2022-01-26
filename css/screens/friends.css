@@ -1,0 +1,63 @@
+#friends-display-link{
+    text-align: center;
+    display: block;/*a를 block해줘야 좌우정렬이 됨*/
+    background:var(--lightColor);
+    padding:12px 0px;
+    margin-bottom: 10px;
+    margin-top:-10px;
+}
+#friends-display-link i{
+    color:white;
+}
+#friends-display-link span{
+    margin:0px 8px;
+    font-size:13px;
+}
+.friends-screen{
+    padding:0px var(--horizontal-space);
+}
+.friends-screen__channel{
+    margin-top:16px;
+    border-top:var(--main-border);
+    padding-top:11px;
+   
+}
+.friends-screen__channel-header{
+    
+    padding-bottom: 22px;
+    display: flex;
+    justify-content:space-between;
+    color:rgba(0,0,0,0.5);
+    font-size:13px;
+}
+
+@keyframes hideSplashScreen{
+    from{
+        opacity: 1;
+    }
+    to{
+        opacity: 0;
+        visibility: hidden;
+    }
+}
+
+#splash-screen{
+    background:var(--rootColor);
+    position: absolute;/*flex부모는 body*/
+    height:100vh;
+    width:var(--bodyWidth);
+    top:0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:100px;
+    color:white;
+    animation:hideSplashScreen 0.8s ease-in-out forwards;
+    animation-delay: 1s;
+}
+#splash-screen img{
+    width:100px;
+    height:100px;
+    border-radius: 50%;
+    object-fit: cover;
+}

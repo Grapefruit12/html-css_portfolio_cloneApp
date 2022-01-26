@@ -1,0 +1,54 @@
+.welcome-header{
+    padding-top:86px;
+    margin-bottom:50px;
+    text-align: center;
+}
+.welcome-header__title{
+    margin-bottom: 27px;
+    font-size:20px;
+    font-weight: 600;
+}
+.welcome-header__text{
+    line-height: 1.3;
+    color:#9A9A9B;
+}
+.login-form{
+    display: flex;
+    flex-direction: column;
+    margin:0px 21px;
+    
+}
+.login-form__input{
+    border:none;
+    padding:20px 0px;
+    font-size:17px;
+    border-bottom:1.2px solid rgba(0,0,0,0.2);
+    transition:border-color 0.5s ease-in-out;
+}
+.login-form__input::placeholder{
+    color:rgba(0,0,0,0.4);
+}
+.login-form__input:nth-child(2){
+    margin-bottom:33px;
+}
+.login-form__input:focus{
+    border-color:var(--rootColor);
+}
+.login-form__btn{
+    border:none;
+    padding:18px 0px;
+    font-size:15px;
+    background:var(--rootColor);
+    color:white;
+    cursor:pointer;
+    border-radius: 8px;
+    margin-bottom:12px;
+   
+}
+.login-form__a{
+    text-align: center;
+    font-size:12px;
+    text-decoration: none;
+    color:inherit;/*default값: 검정*/
+   
+}

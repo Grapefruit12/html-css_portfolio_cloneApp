@@ -1,0 +1,14 @@
+.badge{
+    background:tomato;
+    width:18px;
+    height:18px;
+    border-radius: 50%;
+    font-weight: 600;
+    /*1을 중앙에 두기*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    bottom:0px;
+    font-size:11px;   
+}
