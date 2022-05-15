@@ -19,26 +19,26 @@
 2. 로그인 창  
 ![로그인](https://user-images.githubusercontent.com/89383812/168473554-32a86f89-35c9-453b-b10c-ed914146b801.PNG)
 
-4. 친구 목록  
+3. 친구 목록  
 ![친구목록](https://user-images.githubusercontent.com/89383812/168473558-b0da97e6-c27d-4da4-8074-b9e8a5dbb13e.PNG)
 
-6. 채팅 목록  
+4. 채팅 목록  
 ![채팅목록](https://user-images.githubusercontent.com/89383812/168473561-99d26274-c37a-4eb2-84e4-befbb752bba5.PNG)
 
-8. 채팅 창  
+5. 채팅 창  
 ![채팅창](https://user-images.githubusercontent.com/89383812/168473570-76f45271-6ffd-43e5-9fe5-d828914a3ebf.PNG)
 
   - input클릭시 화면 넓이만큼 늘어남  
   ![input클릭시 화면크기로 늘어남](https://user-images.githubusercontent.com/89383812/168473592-499c61ab-7b15-4ada-abcf-7ac460770553.PNG)
 
 
-9. 친구 찾기  
+6. 친구 찾기  
 ![친구찾기](https://user-images.githubusercontent.com/89383812/168473607-5aa1d425-b46c-4176-b098-159f2ed7b7c5.PNG)
 
-11. 더보기  
+7. 더보기  
 ![더보기](https://user-images.githubusercontent.com/89383812/168473611-7d2425f7-dc35-4acf-b8d4-a740e29ef454.PNG)
 
-13. 설정  
+8. 설정  
 ![설정](https://user-images.githubusercontent.com/89383812/168473615-b461dd77-925b-425d-ae37-0d0065ac770d.PNG)
 
 
