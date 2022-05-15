@@ -1,5 +1,5 @@
 #  snoopy chatting app  
-📱스누피 채팅 앱
+📱스누피 채팅 앱<br>
 🔗링크: [snoopy chatting app](https://grapefruit12.github.io/html-css_portfolio_cloneApp/)
 
 
